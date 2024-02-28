@@ -1,0 +1,22 @@
+{
+  "name": "reese-brain-on-stocks",
+  "version": "1.0.0",
+  "description": "my girlfriend had an idea",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kira0x1",
+  "license": "MIT",
+  "dependencies": {
+    "@polygon.io/client-js": "^7.3.2",
+    "cli-color": "^2.0.3",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
